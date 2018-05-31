@@ -4,7 +4,7 @@ post_title: Homepage
 author: admin
 post_excerpt: ""
 layout: page
-permalink: https://coding-banana.com/homepage/
+permalink: https://coding-banana.com/
 published: true
 post_date: 2018-06-01 00:10:24
 ---
