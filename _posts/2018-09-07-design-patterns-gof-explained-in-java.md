@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: post
 permalink: >
-  https://coding-banana.com/programming/design-patterns-gof-explained-in-java/
+  https://coding-banana.com/programming/programming-languages/java/design-patterns/design-patterns-gof-explained-in-java/
 published: true
 post_date: 2018-09-07 23:40:17
 ---
