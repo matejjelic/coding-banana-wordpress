@@ -4,7 +4,8 @@ post_title: Programming
 author: admin
 post_excerpt: ""
 layout: page
-permalink: https://coding-banana.com/programming/
+permalink: >
+  https://coding-banana.com/blog/programming/
 published: true
 post_date: 2018-06-01 00:03:04
 ---
