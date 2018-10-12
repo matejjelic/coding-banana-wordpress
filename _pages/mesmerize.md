@@ -36,7 +36,7 @@ post_date: 2018-06-01 13:32:31
 <div  class="col-sm-6">
 <div  class="card row-card bordered y-move">
 <div  class="row">
-<div  class="col-sm-fit icon-column"><svg  class="svg-inline--fa fa-connectdevelop fa-w-16 icon round bordered color2" aria-hidden="true" data-prefix="fa" data-icon="connectdevelop" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""></svg><!-- <i     class="fa icon fa-connectdevelop round bordered color2"> </i> --></div>
+<div  class="col-sm-fit icon-column"><svg  class="svg-inline--fa fa-connectdevelop fa-w-16 icon round bordered color2" aria-hidden="true" data-prefix="fa" data-icon="connectdevelop" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""></svg><!-- <i       class="fa icon fa-connectdevelop round bordered color2"> </i> --></div>
 <div  class="col-sm" data-type="column">
 <h5  class="color2">PROGRAMMING</h5>
 <p  class="">I am a professional programmer. My expertise is Java, and I work as a Java Web Developer. I like exploring various technologies and frameworks, like Spring for example.
@@ -51,7 +51,7 @@ A few Linux, or Docker posts may also sneak in.</p>
 <div  class="col-sm-6">
 <div  class="card row-card bordered y-move">
 <div  class="row">
-<div  class="col-sm-fit icon-column"><svg  class="svg-inline--fa fa-codepen fa-w-16 icon round bordered color2" aria-hidden="true" data-prefix="fa" data-icon="codepen" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""></svg><!-- <i     class="fa icon fa-codepen round bordered color2"> </i> --></div>
+<div  class="col-sm-fit icon-column"><svg  class="svg-inline--fa fa-codepen fa-w-16 icon round bordered color2" aria-hidden="true" data-prefix="fa" data-icon="codepen" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""></svg><!-- <i       class="fa icon fa-codepen round bordered color2"> </i> --></div>
 <div  class="col-sm" data-type="column">
 <h5  class="color2">GAMING</h5>
 <p  class="">I am an old-skool boy and when it comes to gaming I am stuck at around the year of 2000.
@@ -66,7 +66,7 @@ Unreal Tournament 2000, Vietcong 1, Vietcong 2, Portal 1, Portal 2, System Shock
 <div  class="col-sm-6">
 <div  class="card row-card bordered y-move">
 <div  class="row">
-<div  class="col-sm-fit icon-column"><svg  class="svg-inline--fa fa-cube fa-w-16 icon round bordered color2" aria-hidden="true" data-prefix="fa" data-icon="cube" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""></svg><!-- <i     class="fa icon fa-cube round bordered color2"> </i> --></div>
+<div  class="col-sm-fit icon-column"><svg  class="svg-inline--fa fa-cube fa-w-16 icon round bordered color2" aria-hidden="true" data-prefix="fa" data-icon="cube" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" data-fa-i2svg=""></svg><!-- <i       class="fa icon fa-cube round bordered color2"> </i> --></div>
 <div  class="col-sm" data-type="column">
 <h5  class="color2">MUSIC</h5>
 <p  class="">I like singing and I play keyboards. I have a “band” and I have my own YouTube channel.
@@ -81,7 +81,7 @@ A “band” (whit quotation marks on purpose) is my excuse to scream at the mic
 <div  class="col-sm-6">
 <div  class="card row-card bordered y-move">
 <div  class="row">
-<div  class="col-sm-fit icon-column"><svg  class="svg-inline--fa fa-database fa-w-14 icon round bordered color2" aria-hidden="true" data-prefix="fa" data-icon="database" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""></svg><!-- <i     class="fa icon fa-database round bordered color2"> </i> --></div>
+<div  class="col-sm-fit icon-column"><svg  class="svg-inline--fa fa-database fa-w-14 icon round bordered color2" aria-hidden="true" data-prefix="fa" data-icon="database" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 448 512" data-fa-i2svg=""></svg><!-- <i       class="fa icon fa-database round bordered color2"> </i> --></div>
 <div  class="col-sm" data-type="column">
 <h5  class="color2">BANANA</h5>
 <p  class="">Banana!</p>
