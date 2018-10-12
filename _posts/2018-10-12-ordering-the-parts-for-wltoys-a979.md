@@ -5,7 +5,7 @@ author: admin
 post_excerpt: ""
 layout: post
 permalink: >
-  https://coding-banana.com/uncategorized/ordering-the-parts-for-wltoys-a979/
+  https://coding-banana.com/rc-models/cars/wltoys-a979-metal-build/ordering-the-parts-for-wltoys-a979/
 published: true
 post_date: 2018-10-12 21:23:02
 ---
