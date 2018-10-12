@@ -18,7 +18,7 @@ I am a happy owner of WLtoys A979 car. It is an older model with brushed motor. 
 <h1>My upgrading history</h1>
 <em>Stupidity #1: Don't be lazy (like me) and always have a proper toolkit for replacing or repairing your car...</em>
 <h2>So... the parts... and history</h2>
-My first upgrade was my rear left wheel seat. After not that high jump in a skate-park, the seat simply broke in half. I decided to replace it with a metal part, so I ended up buying two rear seats.
+The first upgrade I did was the rear left wheel seat. After not that high jump in a skate-park, the seat simply broke in half. I decided to replace it with a metal part, so I ended up buying two rear seats.
 
 Later on, the car ran just fine - but the runtime was always short. So I decided to upgrade the battery too. After a saga of ordering where all my LiPo battery orders from overseas were rejected due to EU regulations, I finally screwed up by buying a <a href="https://hobbyking.com/en_us/zippy-compact-5000mah-2s-25c-lipo-pack.html?___store=en_us">too powerful battery from Hobbyking</a>. The battery was too large, the plug was incompatible, the discharge rate was high too (25 C) and I am not sure about the amount of current (A), but it was probably larger it should have been. How do I know? Well... I soldered the JST plug to my battery, but then it burned my ESC/Receiver.
 
@@ -28,7 +28,7 @@ While waiting for my new ESC to arrive, I accidentally ordered the 12mm hex ada
 
 With the new ESC, battery, and set of wheels the car was absolutely amazing to drive. The story goes on...
 
-Some days ago, my rear transmission shaft fell out of the car somehow. I think the screw that held the rear rod was too loose. I lost the transmission shaft, so I thought I'll just order another one. In the meantime, the car was still operable and in a driving condition, only with front wheels. I really enjoyed the FWD RC car. But then, the car stopped. I was pushing my trigger on my transmitter, and I noticed a smoke coming out of my motor. I figured it got burned out because I was really pushing the car to its limits. And with the new battery, I was driving it way longer than with the stock battery.
+Some days ago, my rear transmission shaft fell out of the car somehow. I think the screw that held the rear rod was too loose. I lost the transmission shaft, so I thought I'll just order another one. In the meantime, the car was still operable and in a driving condition, only with front wheels. I really enjoyed the FWD RC car. But then, the car stopped. I was pushing my trigger on my transmitter, and I noticed a smoke coming out of my motor. I figured I got it burned out, because I was really pushing the car to its limits. And with the new battery, I was driving it way longer than with the stock battery.
 <h2>Buy buy buy</h2>
 So I figured... transmission shaft + new motor... hmmm... I might go with the new ball bearings too. Why not replace the shocks too? How about replacing the front wheel seats? And the wishlist went on and on...
 
@@ -38,7 +38,7 @@ The journey begins...
 
 <em>Stupidity #2: later on I discovered that my motor was actually fine, I just got some fine gravel stuck between the gears... and I already bought all the metal parts xD</em>
 <h1>The birth of the decision to build a car from scratch</h1>
-So, I ordered a bunch of parts. But then, after I discovered that my old motor was functional and that my old transmitter and receiver will be replaced by the new one, I decided to build a new car with metal parts and custom ESC, receiver, transmitter, servo and brushless motor.
+So, I ordered a bunch of parts. But what to do with the old parts? My old motor was functional, and a new one would put it out of use. Same goes for the original transmitter, ESC/receiver, and servo. With these things in mind, I decided to build a new car with metal parts and custom ESC, receiver, transmitter, servo, and brushless motor, and leave the old parts in the current car.
 
 I did some mistakes ordering some parts as well. For example, I could have ordered more complete metal sets. But that's fine, I'll manage it all.
 
