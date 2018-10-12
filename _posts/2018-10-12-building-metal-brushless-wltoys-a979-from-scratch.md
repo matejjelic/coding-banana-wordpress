@@ -2,7 +2,7 @@
 ID: 1388
 post_title: >
   Building metal brushless WLtoys A979
-  from scratch
+  from scratch x
 author: admin
 post_excerpt: ""
 layout: post
