@@ -39,3 +39,9 @@ And that's when I said to myself - I'll go full metal with this car. As my moto
 The journey begins...
 
 <em>Stupidity #1: later on I discovered that my motor was actually fine, I just got some fine gravel stuck between the gears... and I already bought all the metal parts xD</em>
+<h1>So...</h1>
+So, I ordered a bunch of parts. But then, after I discovered that my old motor was functional and that my old transmitter and receiver will be replaced by the new one, I decided to build a new car with metal parts and custom ESC, receiver, transmitter, servo and brushless motor.
+
+I did some mistakes ordering some parts as well. For example, I could have ordered better metal sets. But that's fine, I'll manage.
+
+Read on to find what parts I bought and where. Jump into the next post...
