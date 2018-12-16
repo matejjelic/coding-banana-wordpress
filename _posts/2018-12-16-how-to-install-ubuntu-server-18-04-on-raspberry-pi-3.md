@@ -114,6 +114,8 @@ post_date: 2018-12-16 22:52:36
 <p>Alternatively, you can enter this command in your terminal: </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:paragraph -->
-<p></p>
-<!-- /wp:paragraph -->
+<!-- wp:html -->
+<pre lang="sh">
+wget https://www.finnie.org/software/raspberrypi/ubuntu-rpi3/ubuntu-18.04-preinstalled-server-armhf+raspi3.img.xz
+</pre>
+<!-- /wp:html -->
