@@ -2,7 +2,8 @@
 ID: 1428
 post_title: >
   How to install Ubuntu Server 18.04 on
-  Raspberry Pi 3
+  Raspberry Pi 3 without the external
+  peripherals
 author: admin
 post_excerpt: ""
 layout: post
@@ -78,8 +79,16 @@ post_date: 2018-12-16 22:52:36
 <!-- /wp:paragraph -->
 
 <!-- wp:list -->
-<ul><li>Raspberry Pi 3 (obviously)</li><li>fast SD card (at least class 10 and at least 16 GB)</li><li>computer (preferably running Linux; I will not cover Mac and Windows)&nbsp;</li><li>Ethernet cable</li><li>Internet access (over Ethernet)</li></ul>
+<ul><li>Raspberry Pi 3 (obviously)</li><li>fast SD card (at least class 10 and at least 16 GB)</li><li>computer (preferably running Linux; I will not cover Mac and Windows) </li><li>Ethernet cable</li><li>Internet access (over Ethernet)</li></ul>
 <!-- /wp:list -->
+
+<!-- wp:paragraph -->
+<p>I would really recommend internet over Ethernet for starters. It will make your life easier. Later on, you may set up the Wi-Fi.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Also, you may set up your Wi-Fi immediately using an external peripherals (monitor and mouse). However, these instructions are intended for the set-up without any peripherals. You will only connect to your Raspberry Pi server over SSH.</p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p></p>
