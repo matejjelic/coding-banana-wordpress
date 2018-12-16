@@ -119,3 +119,24 @@ post_date: 2018-12-16 22:52:36
 wget https://www.finnie.org/software/raspberrypi/ubuntu-rpi3/ubuntu-18.04-preinstalled-server-armhf+raspi3.img.xz
 </pre>
 <!-- /wp:html -->
+
+<!-- wp:heading {"level":3} -->
+<h3>Installing the image on SD card</h3>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Run this command to install adequate tools to your machine:</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:html -->
+<pre lang="sh">
+sudo apt-get install gddrescue
+</pre>
+<pre lang="sh">
+unxz ubuntu-18.04-preinstalled-server-armhf+raspi3.img.xz
+</pre>
+<pre lang="sh">
+sudo ddrescue -d -D --force ubuntu-18.04-preinstalled-server-armhf+raspi3.img /dev/sdx
+</pre>
+# use lsblk command to see the device name, mine was /dev/sdb
+<!-- /wp:html -->
