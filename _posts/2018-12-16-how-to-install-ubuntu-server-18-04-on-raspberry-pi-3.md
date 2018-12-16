@@ -107,7 +107,7 @@ post_date: 2018-12-16 22:52:36
 <!-- /wp:heading -->
 
 <!-- wp:paragraph -->
-<p>Just visit this link: https://www.finnie.org/software/raspberrypi/ubuntu-rpi3/ubuntu-18.04-preinstalled-server-armhf+raspi3.img.xz </p>
+<p>Just visit this link: <a href="https://www.finnie.org/software/raspberrypi/ubuntu-rpi3/ubuntu-18.04-preinstalled-server-armhf+raspi3.img.xz ">https://www.finnie.org/software/raspberrypi/ubuntu-rpi3/ubuntu-18.04-preinstalled-server-armhf+raspi3.img.xz </a></p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
